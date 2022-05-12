@@ -1,0 +1,118 @@
+
+.b{
+    display:flex;
+    justify-content: space-between;
+    padding-left:15px;
+}
+.c{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    
+}
+
+.d{
+    display:flex;
+    justify-content: space-around;
+    padding-top:10px;
+}
+
+.e{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.f{
+    display:flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    text-align: center;
+}
+.g{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+
+.custom-control{
+    margin-top: 20px;
+    margin-left: 40px;
+    display:flow-root;
+    justify-content:left;
+}
+.h{
+    display:flex;
+    justify-content: space-evenly;
+}
+.btn-primary{
+    width:100px;
+    margin-top:30px;
+}
+.btn-secondary{
+    width:100px;
+    margin-top:30px;
+}
+.bx1{
+    margin-right:20px;
+    width:250px;
+    text-align: center;
+    border-style: hidden;
+
+    
+}
+.bx2{
+    margin-right:20px;
+    width:250px;
+    text-align:center;
+    border-style: hidden;
+}
+.bx3{
+    width:250px;
+    text-align:center;
+    border-style:inset;
+}
+.bx4{
+    width:250px;
+    text-align:center;
+    border-style: outset;
+
+}
+.bx5{
+    text-align:center;
+    width:100px;
+    border-radius:20px;
+    
+}
+.bx6{
+    width:230px;
+    text-align:center;
+}
+.bx7{
+    width:230px;
+    text-align:center;
+    margin-right: 20px;
+}
+.alert{
+    font-family: 'Courier New', Courier, monospace
+}
+.ab{
+    border-style:outset;
+    width:50%;
+    margin: auto;
+    height:60vh;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+.outp{
+    border-style:outset;
+    font-display:initial;
+    text-align: center;
+    width:50%;
+    margin: auto;
+    height:50vh;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+
+}
